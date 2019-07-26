@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="com.fireeye.oneid.okta.services.token.AccessTokenVerifyService">
+  <implementation class="com.fireeye.oneid.okta.services.token.AccessTokenVerifyService"/>
+  <service>
+    <provide interface="com.fireeye.oneid.okta.services.token.AccessTokenVerifyService"/>
+  </service>
+</component>
